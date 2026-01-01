@@ -1,6 +1,6 @@
 import random
 '''
-snake = 1
+snake = 1  
 
 gun = 0
 
